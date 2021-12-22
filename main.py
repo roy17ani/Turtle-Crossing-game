@@ -37,3 +37,5 @@ while game_is_on:
 
 
 screen.exitonclick()
+
+# Aniket Roy - NIT Durgapur - CSE - 19CS8020
